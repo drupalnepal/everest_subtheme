@@ -1,0 +1,5 @@
+# Ignore the node modules folder (created by 'npm install').
+node_modules
+
+# Ignore SASS cache.
+.sass-cache

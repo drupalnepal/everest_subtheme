@@ -1,0 +1,12 @@
+{
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "undef": true,
+  "unused": true,
+  "predef": [
+    "Drupal",
+    "Modernizr",
+    "jQuery"
+  ]
+}

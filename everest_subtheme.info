@@ -1,0 +1,13 @@
+name = Everest subtheme
+description = A sub-theme of <a href="https://www.drupal.org/project/everest">Everest</a> base theme for Drupal 7.
+base theme = everest
+core = 7.x
+
+; Regions
+regions[header] = Header
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[sidebar_first] = Left sidebar
+regions[sidebar_second] = Right sidebar
+regions[footer] = Footer
